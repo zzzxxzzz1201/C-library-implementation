@@ -1,0 +1,85 @@
+﻿  lib.cpp
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\head.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(978,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(1193,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(71,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(77,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(171,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(178,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(186,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(296,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(303,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(312,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(367,12): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(520,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(527,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(535,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(554,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(562,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(664,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(671,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(680,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(700,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(709,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1067,216): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1313,1): warning C4828: The file contains a character starting at offset 0xafb4 that is illegal in the current source character set (codepage 950).
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1471,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1563,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1569,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1574,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1615,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1731,20): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1754,20): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1787,20): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1926,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1946,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(832,23): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(830,8): message : while compiling class template member function 'void Peng::min_indexed_PQ<double,std::less<T1>>::insert(int,T1)'
+          with
+          [
+              T1=double
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1070,12): message : see the first reference to 'Peng::min_indexed_PQ<double,std::less<T1>>::insert' in 'Peng::eagerprimmst::eagerprimmst'
+          with
+          [
+              T1=double
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(1399,26): message : see reference to class template instantiation 'Peng::min_indexed_PQ<double,std::less<T1>>' being compiled
+          with
+          [
+              T1=double
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(835,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(745,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(743,7): message : while compiling class template member function 'int Peng::min_indexed_PQ<double,std::less<T1>>::pop(void)'
+          with
+          [
+              T1=double
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(1073,11): message : see the first reference to 'Peng::min_indexed_PQ<double,std::less<T1>>::pop' in 'Peng::eagerprimmst::eagerprimmst'
+          with
+          [
+              T1=double
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(558,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(555,7): message : while compiling class template member function 'int Peng::heap<Peng::edge,std::less<Peng::edge>>::push(T1)'
+          with
+          [
+              T1=Peng::edge
+          ]
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(965,18): message : see the first reference to 'Peng::heap<Peng::edge,std::less<Peng::edge>>::push' in 'Peng::kruskalmst::kruskalmst'
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(1379,28): message : see reference to class template instantiation 'Peng::heap<Peng::edge,std::less<Peng::edge>>' being compiled
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(231,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\lib.cpp(938,9): message : see reference to function template instantiation 'void Peng::print_vector<int>(const std::vector<int,std::allocator<int>> &)' being compiled
+  test.cpp
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\head.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(978,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(1193,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\Peng.h(231,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\my_library\test.cpp(72,2): message : see reference to function template instantiation 'void Peng::print_vector<int>(const std::vector<int,std::allocator<int>> &)' being compiled
+  Generating Code...
+  my_library.vcxproj -> C:\Users\User\Desktop\c_and_c++\c_and_c++\my_library\x64\Debug\my_library.exe
